@@ -7,8 +7,14 @@ Welcome to the GemerlyMart Web Development Project! This project is a fully func
 Features
 
 User Authentication: Secure user registration and login.
+
 Product Listings: Browse a variety of products with detailed information.
-Shopping Cart: Add, remove, and update products in the cart.
+
+Shopping Cart: Add, remove, and update products in the cart
+
 Filtering: Efficiently filter products.
+
 Responsive Design: Optimized for both desktop and mobile devices.
+
 Admin Dashboard: Manage products, orders, and users
+
