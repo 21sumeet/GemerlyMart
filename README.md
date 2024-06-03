@@ -18,3 +18,21 @@ Responsive Design: Optimized for both desktop and mobile devices.
 
 Admin Dashboard: Manage products, orders, and users
 
+Technologies Used
+
+Frontend:
+React
+React Router
+Axios
+Bootstrap / Material-UI
+
+Backend:
+Node.js
+Express.js
+MongoDB 
+
+Authentication:
+JWT (JSON Web Tokens)
+bcrypt
+
+
