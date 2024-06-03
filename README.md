@@ -13,21 +13,21 @@ Welcome to the GemerlyMart Web Development Project! This project is a fully func
 - Responsive Design: Optimized for both desktop and mobile devices.
 - Admin Dashboard: Manage products, orders, and users
 
-Technologies Used
+## Technologies Used
 
 Frontend:
-React
-React Router
-Axios
-Bootstrap / Material-UI
+- React
+- React Router
+- Axios
+- Bootstrap / Material-UI
 
 Backend:
-Node.js
-Express.js
-MongoDB 
+- Node.js
+- Express.js
+- MongoDB 
 
 Authentication:
-JWT (JSON Web Tokens)
-bcrypt
+- JWT (JSON Web Tokens)
+- bcrypt
 
 
